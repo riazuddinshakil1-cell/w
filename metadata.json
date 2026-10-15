@@ -1,0 +1,6 @@
+{
+  "name": "Wallet",
+  "description": "Comprehensive personal finance and budget tracking app with accounts, planned payments, smart budgets, and spending trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
